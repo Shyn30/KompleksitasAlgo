@@ -3,6 +3,6 @@ Repo untuk mengirimkan kode program dari UAS matkul Kompleksitas Algoritma
 ### Anggota Kelompok:
 - Muhammad Fatih Wadjo (23641022)
 - Siti Khairunnisa Ratu Rahmah (23641020)
-- Filadelfia Bengu (23641012)**Flask**: Framework web Python untuk API server
+- Filadelfia Bengu (23641012)
 
 
